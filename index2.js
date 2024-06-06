@@ -19,13 +19,13 @@ if (xpHeroi >= 0 && xpHeroi <= 1000){
 } else if (xpHeroi >= 5001 && xpHeroi <= 7000){
     nivelExperience = "Ouro";
 } else if (xpHeroi >= 7001 && xpHeroi <= 8000){
-        nivelExperience = "Platina";
+    nivelExperience = "Platina";
 } else if (xpHeroi >= 8001 && xpHeroi <= 9000){
-        nivelExperience = "Ascendente";
+    nivelExperience = "Ascendente";
 } else if (xpHeroi >= 9001 && xpHeroi <= 10000){
-        nivelExperience = "Imortal";
+    nivelExperience = "Imortal";
 } else if (xpHeroi >= 10001){
-        nivelExperience = "Radiante";
+    nivelExperience = "Radiante";
 } else nivelExperience = "Erro"
 
 //saida
